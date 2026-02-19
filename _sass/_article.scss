@@ -28,16 +28,9 @@
 }
 
 .post p:first-of-type::first-letter {
-  font-size: 3.5rem;
-  line-height: 1;
-  float: left;
+  initial-letter: 3;
   margin-right: 0.5rem;
   font-weight: 700;
-}
-
-.post p:first-of-type {
-  line-height: 1.6;
-  display: flow-root;
 }
 
 .post p:first-of-type,
