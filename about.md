@@ -3,15 +3,12 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Nama saya **Achmad Akira Syahputra**, biasa dipanggil **Akira**. Saya seorang freelancer yang tumbuh di persimpangan antara dunia kreatif dan teknologi. Ketertarikan saya pada IT, visual, dan fotografi bukan datang secara instan, melainkan terbentuk dari rasa ingin tahu yang terus berkembang serta keinginan untuk menciptakan karya yang punya makna.
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Saya percaya bahwa karya adalah bahasa paling jujur untuk memperkenalkan diri. Lewat teknologi, saya belajar berpikir logis dan sistematis. Lewat dunia kreatif dan fotografi, saya belajar menangkap cerita, emosi, dan detail yang sering luput dari perhatian. Ketiganya saling melengkapi dan membentuk cara saya bekerja serta memandang sebuah proses.
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Dunia kerja mengajarkan saya satu hal penting: **tidak semua orang yang datang membawa niat baik, dan tidak semua yang tersenyum adalah teman**. Karena itu, saya memegang prinsip untuk tidak mudah termakan oleh kata orang. Fokus saya adalah pada proses, konsistensi, dan hasil. Saya memilih membiarkan karya yang berbicara, bukan janji atau opini semata.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Sebagai freelancer, saya terbiasa berdiri di atas kaki sendiri—belajar, mencoba, gagal, lalu memperbaiki. Setiap proyek adalah ruang belajar, setiap tantangan adalah pengingat bahwa berkembang itu sebuah pilihan. Saya percaya, selama kita terus bergerak dan menjaga integritas, jalan akan selalu terbuka.
+
+Website ini adalah ruang personal saya—tempat berbagi karya, proses, dan cerita. Bukan untuk terlihat sempurna, tapi untuk jujur tentang perjalanan.
