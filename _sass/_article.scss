@@ -29,7 +29,8 @@
 
 .post p:first-of-type::first-letter {
   font-size: 3.5rem;
-  margin-right: 0.1rem; /* Kurangi sedikit margin agar tidak terlalu jauh */
+  line-height: 0.8;
+  margin-right: 0.5rem; /* Kurangi sedikit margin agar tidak terlalu jauh */
   font-weight: 700;
   vertical-align: baseline; /* Memastikan huruf besar dan teks kecil duduk di garis bawah yang sama */
 }
