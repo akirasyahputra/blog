@@ -52,4 +52,4 @@ Kadang seseorang harus hilang dari kehidupan yang ia sayangi agar yang ditinggal
 
 Dan jika suatu hari kita bertemu lagi dan tertawa—aku ingin itu menjadi tawa yang utuh. Bukan tawa yang menahan air mata.
 
-Sampai nanti, di waktu yang tak kita buru-buru lagi.
+Sampai nanti, ketika waktu memberi kita ruang, bukan tekanan.
